@@ -2,26 +2,36 @@
 
 Подключение БД PostgreSQL:
  
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/00ab88c8-e277-4934-aa66-3e3aef72aba2)
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/517a7d20-615b-43e4-8574-ccc1f0b2e345)
+
 
 Добавление новых программ:    
 
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/f43b9af6-e582-4bb3-9049-9acf51a64835)
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/8c381e6e-bd1b-40ca-b0b4-e093b8c8c797)
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/cf07de2b-d83b-45cd-a79b-5b617e8c309a)
+
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/c817402f-04d9-47bb-ba50-4a73d8327992)
+
 Вывод:
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/eb19070d-1a9b-4e24-8ded-6f54dd27140b)
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/f30fb0ac-8768-4f34-8d77-9f4601b156a8)
+
 
 Редактирование данных в БД:
 
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/baaec132-f274-485e-8b03-576d9fd5073b)
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/bf35e033-611e-47b8-8043-5e764ae980b1)
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/1bf62b1e-81d8-451b-b896-614b54433f81)
+
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/e3d90438-d435-43a0-aabe-ed5e5df706b7)
+
 
 Удаление данных из БД: 
 
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/366550a6-c7f6-41b9-a24d-8cecd6f36254)
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/1842bc29-b5ed-4101-82f6-a82d99c5c924)
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/b4074c9a-3a66-4eec-ab37-5977fce83384)
+
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/5aace764-565a-4fb1-8be0-1871576ec9c5)
+
 
 Изменения в базе данных:  
 
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/191f82f4-7a65-4eca-9ef5-7abfc746c5a5)
-![image](https://github.com/AndrewPogorelov/Java_CRUD_8_variant/assets/112940347/a5e399af-b897-4310-bd7a-61ec1e9c16e2)
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/7d094410-49e9-466d-97ae-144f5b7c67e7)
+
+![image](https://github.com/AndrewPogorelov/Java_CRUD_8var/assets/112940347/38821039-53d5-4bef-bf77-3ca83fd54f43)
+
